@@ -43,7 +43,7 @@ const JobBoard = () => {
   const fetchJobs = async () => {
     try {
       setLoading(true);
-      const url = `http://localhost:5000/api/jobs?page=${page}&limit=10${
+      const url = `https://backendpadaku.onrender.com/api/jobs?page=${page}&limit=10${
         searchLocation ? `&location=${encodeURIComponent(searchLocation)}` : ''
       }`;
 
