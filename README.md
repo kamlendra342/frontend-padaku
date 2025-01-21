@@ -56,7 +56,7 @@ npm run lint
 
 ## Links
 - **Deployed Frontend**: [Frontend Link](<https://frontend-padaku.vercel.app/>)
-- **Deployed Backend**: [Backend Link](<https://github.com/kamlendra342/backendpadaku>)
+- **Deployed Backend**: [Backend Link](<https://github.com/kamlendra342/backendpadaku/>)
 
 ## Development Tools
 - **Vite**: Fast build tool.
